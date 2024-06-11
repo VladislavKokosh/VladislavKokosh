@@ -5,7 +5,7 @@
 - 🔭 I’m currently working at @PixelPlex <br/>
 - 🤔 I am interesting in decentralized applications and decentralized finance, so if you have any, feel free to contact me, I am open to new opportunities. <br/>
 - 🌱 I’m currently learning: NestJS and English 😄 <br/>
-- 📫 How to reach me: Telegram [@whereareyyoo](https://t.me/whereareyyoo) or LinkedIn [in/vladislav-kokosh](https://www.linkedin.com/in/vladislav-kokosh-b02883205/) 
+- 📫 How to reach me: Telegram [@whereareyox](https://t.me/whereareyox) or LinkedIn [in/vladislav-kokosh](https://www.linkedin.com/in/vladislav-kokosh-b02883205/) 
 
 ## My main tech stack
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
